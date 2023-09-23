@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "c32f4601af1d04d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c24a047bcf5b32b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2668815bade8f229",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "301b780ea732bab0",
+    "type": "split",
+    "children": [
+      {
+        "id": "126ae511c8b07a9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f1d7ed35786bf6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d7cd82fd072cc94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac6035f7762a018b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e87e39e9f5762a4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84a030243df6c39c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abad11ccb9f77bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1c19a9e1d7d820c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9608dbf78912fdb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d69ac8ed0d93f6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9f8ae437a2a0682",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0278966851d3697",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b116198b2898ad5c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "04ced9fa73ea72f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "438427a84298dae5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 406.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "2668815bade8f229",
+  "lastOpenFiles": [
+    "my-obsidian-conf",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
+    "PC DDR 메모리 넘버링 규칙.md",
+    "클래스의 4대 속성.md",
+    "TODO.md",
+    "USENIX Association.md",
+    "Prediction.md",
+    "X-optimism.md",
+    "Encoder.md",
+    "Discrete Cosine Transform (DCT).md",
+    "residual.md",
+    "Motion Vector (MV).md",
+    "H.265 (HEVC).md",
+    "2023-10-14 이사 정보/마포구 투룸 위치.md",
+    "전세금 반환 보증/HUG.md",
+    "부동산 용어/등기부등본.md",
+    "전세금 반환 보증/HF.md",
+    "Attached files/Pasted image 20230916142016.png",
+    "마포구",
+    "2023-10-14 이사 정보",
+    "주택 종류/다세대 주택.md",
+    "주택 종류/다가구 VS 다세대.md",
+    "주택 종류/다가구 주택.md",
+    "전세금 반환 보증/전세금 반환 보증.md",
+    "부동산 용어/선순위채권.md",
+    "Attached files/Pasted image 20230915214633.png",
+    "Attached files/Pasted image 20230916134637.png",
+    "ㅂ.md",
+    "부동산 용어",
+    "전세금 반환 보증",
+    "주택 종류",
+    "Attached files/Pasted image 20230916131458.png",
+    "Attached files",
+    "Pasted image 20230916131415.png"
+  ]
+}
