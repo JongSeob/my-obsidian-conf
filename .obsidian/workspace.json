@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f92c90e7d5e3aef9",
+            "id": "1acd431a1e9b9acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC DDR 메모리 넘버링 규칙.md",
+                "file": "CortexR5와 CortexA53의 차이.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#공부법",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e87e39e9f5762a4e",
@@ -77,9 +76,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PC DDR 메모리 넘버링 규칙.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -102,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC DDR 메모리 넘버링 규칙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC DDR 메모리 넘버링 규칙.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -154,8 +149,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb9db4da9e2b7c25",
@@ -187,32 +181,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f92c90e7d5e3aef9",
+  "active": "ec51bfcb05158c8a",
   "lastOpenFiles": [
+    "CortexR5와 CortexA53의 차이.md",
     "X-optimism.md",
-    "TODO.md",
-    "파인만 기법.md",
     "제텔카스텐.md",
+    "Encoder 내부 Decoder.md",
+    "PlantUML in Obsidian.md",
+    "CODEC related Terminologies.md",
+    "클래스의 4대 속성.md",
+    "H.265 (HEVC).md",
+    "PC DDR 메모리 넘버링 규칙.md",
+    "파인만 기법.md",
     "H.264 (MPEG-4 AVC).md",
     "VP9.md",
     "Prediction.md",
-    "H.265 (HEVC).md",
     "Motion Estimation.md",
     "H.266 (VVC).md",
     "Discrete Cosine Transform (DCT).md",
     "Encoder.md",
     "Motion Vector (MV).md",
-    "Encoder 내부 Decoder의 역할.md",
     "Decoder.md",
     "residual.md",
     "AV1.md",
     "CODEC Naming Rule.md",
     "SWD.md",
     "JTAG.md",
-    "CortexR5와 CortexA53의 차이.md",
     "CoreSignt.md",
     "USENIX Association.md",
-    "클래스의 4대 속성.md",
     "Attached files/Pasted image 20230927093453.png",
     "Attached files/Pasted image 20231002003659.png",
     "Attached files",
@@ -227,8 +223,6 @@
     "무제 파일.canvas",
     "my-obsidian-conf",
     "무제 파일 1.canvas",
-    "PC DDR 메모리 넘버링 규칙.md",
-    "2023-10-14 이사 정보/마포구 투룸 위치.md",
     "마포구",
     "2023-10-14 이사 정보",
     "부동산 용어",
