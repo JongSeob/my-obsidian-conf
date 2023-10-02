@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c204cd7b04370f60",
+        "id": "e6c3b88e38adbbbd",
         "type": "tabs",
         "children": [
           {
-            "id": "b10a9985848fa70b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attached files/Pasted image 20230927093453.png"
-              }
-            }
-          },
-          {
-            "id": "ec51bfcb05158c8a",
+            "id": "f92c90e7d5e3aef9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "파인만 기법.md",
+                "file": "PC DDR 메모리 넘버링 규칙.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#공부법",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e87e39e9f5762a4e",
@@ -88,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "파인만 기법.md"
+                "file": "PC DDR 메모리 넘버링 규칙.md"
               }
             }
           }
@@ -112,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "파인만 기법.md",
+                "file": "PC DDR 메모리 넘버링 규칙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "파인만 기법.md",
+                "file": "PC DDR 메모리 넘버링 규칙.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,14 +155,14 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
-        "id": "04ced9fa73ea72f5",
+        "id": "cb9db4da9e2b7c25",
         "type": "tabs",
         "children": [
           {
-            "id": "438427a84298dae5",
+            "id": "ec51bfcb05158c8a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -197,50 +187,50 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3f1d7ed35786bf6e",
+  "active": "f92c90e7d5e3aef9",
   "lastOpenFiles": [
-    "무제 파일.md",
+    "X-optimism.md",
+    "TODO.md",
     "파인만 기법.md",
-    "Attached files/Pasted image 20231002003659.png",
-    "Attached files/Pasted image 20230927093453.png",
-    "Attached files",
+    "제텔카스텐.md",
+    "H.264 (MPEG-4 AVC).md",
+    "VP9.md",
+    "Prediction.md",
+    "H.265 (HEVC).md",
+    "Motion Estimation.md",
+    "H.266 (VVC).md",
+    "Discrete Cosine Transform (DCT).md",
+    "Encoder.md",
+    "Motion Vector (MV).md",
+    "Encoder 내부 Decoder의 역할.md",
+    "Decoder.md",
+    "residual.md",
+    "AV1.md",
+    "CODEC Naming Rule.md",
+    "SWD.md",
     "JTAG.md",
+    "CortexR5와 CortexA53의 차이.md",
+    "CoreSignt.md",
+    "USENIX Association.md",
+    "클래스의 4대 속성.md",
+    "Attached files/Pasted image 20230927093453.png",
+    "Attached files/Pasted image 20231002003659.png",
+    "Attached files",
     "Attached files/Pasted image 20230927101904.png",
     "Attached files/Pasted image 20230927101831.png",
     "Attached files/Pasted image 20230927101427.png",
     "Attached files/Pasted image 20230927100317.png",
-    "SWD.md",
     "Attached files/Pasted image 20230927095749.png",
-    "CortexR5와 CortexA53의 차이.md",
     "Attached files/Pasted image 20230927095324.png",
     "Attached files/Pasted image 20230927095303.png",
     "Attached files/Pasted image 20230927095054.png",
-    "CoreSignt.md",
     "무제 파일.canvas",
     "my-obsidian-conf",
     "무제 파일 1.canvas",
     "PC DDR 메모리 넘버링 규칙.md",
-    "클래스의 4대 속성.md",
-    "TODO.md",
-    "USENIX Association.md",
-    "Prediction.md",
-    "X-optimism.md",
-    "Encoder.md",
-    "Discrete Cosine Transform (DCT).md",
-    "residual.md",
-    "Motion Vector (MV).md",
-    "H.265 (HEVC).md",
     "2023-10-14 이사 정보/마포구 투룸 위치.md",
-    "전세금 반환 보증/HUG.md",
-    "부동산 용어/등기부등본.md",
-    "전세금 반환 보증/HF.md",
     "마포구",
     "2023-10-14 이사 정보",
-    "주택 종류/다세대 주택.md",
-    "주택 종류/다가구 VS 다세대.md",
-    "주택 종류/다가구 주택.md",
-    "전세금 반환 보증/전세금 반환 보증.md",
-    "부동산 용어/선순위채권.md",
     "부동산 용어",
     "전세금 반환 보증",
     "주택 종류",
