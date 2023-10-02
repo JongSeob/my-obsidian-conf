@@ -4,18 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "0c24a047bcf5b32b",
+        "id": "c204cd7b04370f60",
         "type": "tabs",
         "children": [
           {
-            "id": "2668815bade8f229",
+            "id": "b10a9985848fa70b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Attached files/Pasted image 20230927093453.png"
+              }
+            }
+          },
+          {
+            "id": "ec51bfcb05158c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "파인만 기법.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "파인만 기법.md"
+              }
             }
           }
         ]
@@ -95,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "파인만 기법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "파인만 기법.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,11 +197,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2668815bade8f229",
+  "active": "3f1d7ed35786bf6e",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "파인만 기법.md",
+    "Attached files/Pasted image 20231002003659.png",
+    "Attached files/Pasted image 20230927093453.png",
+    "Attached files",
+    "JTAG.md",
+    "Attached files/Pasted image 20230927101904.png",
+    "Attached files/Pasted image 20230927101831.png",
+    "Attached files/Pasted image 20230927101427.png",
+    "Attached files/Pasted image 20230927100317.png",
+    "SWD.md",
+    "Attached files/Pasted image 20230927095749.png",
+    "CortexR5와 CortexA53의 차이.md",
+    "Attached files/Pasted image 20230927095324.png",
+    "Attached files/Pasted image 20230927095303.png",
+    "Attached files/Pasted image 20230927095054.png",
+    "CoreSignt.md",
+    "무제 파일.canvas",
     "my-obsidian-conf",
     "무제 파일 1.canvas",
-    "무제 파일.canvas",
     "PC DDR 메모리 넘버링 규칙.md",
     "클래스의 4대 속성.md",
     "TODO.md",
@@ -198,7 +234,6 @@
     "전세금 반환 보증/HUG.md",
     "부동산 용어/등기부등본.md",
     "전세금 반환 보증/HF.md",
-    "Attached files/Pasted image 20230916142016.png",
     "마포구",
     "2023-10-14 이사 정보",
     "주택 종류/다세대 주택.md",
@@ -206,14 +241,9 @@
     "주택 종류/다가구 주택.md",
     "전세금 반환 보증/전세금 반환 보증.md",
     "부동산 용어/선순위채권.md",
-    "Attached files/Pasted image 20230915214633.png",
-    "Attached files/Pasted image 20230916134637.png",
-    "ㅂ.md",
     "부동산 용어",
     "전세금 반환 보증",
     "주택 종류",
-    "Attached files/Pasted image 20230916131458.png",
-    "Attached files",
-    "Pasted image 20230916131415.png"
+    "Attached files"
   ]
 }
