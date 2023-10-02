@@ -76,7 +76,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CortexR5와 CortexA53의 차이.md"
+              }
             }
           }
         ]
@@ -99,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CortexR5와 CortexA53의 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CortexR5와 CortexA53의 차이.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
